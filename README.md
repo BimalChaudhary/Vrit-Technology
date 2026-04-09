@@ -11,10 +11,15 @@ pnpm dev
 For Build version and run:
 
 ```bash
-Step 1: pnpm install
+pnpm install
+```
 
-Step 2: pnpm run build
-step 3: pnpm start
+```bash
+pnpm run build
+```
+
+```bash
+pnpm start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

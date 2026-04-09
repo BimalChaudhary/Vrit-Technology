@@ -1,18 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+
 pnpm dev
-# or
-bun dev
+
 ```
+
+Step 1: pnpm install
+Step 2: pnpm run build
+step 3: pnpm start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 

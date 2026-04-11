@@ -1,7 +1,7 @@
 import { User } from "@/src/types/user/user.types";
 import axios from "axios";
 
-const baseURL = process.env.NEXT_PUBLIC_API_BASE_URL;
+const baseURL = "https://jsonplaceholder.typicode.com";
 
 export const getUsersById = async (id: number): Promise<User> => {
   try {
